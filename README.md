@@ -5,7 +5,7 @@ Dashboard interactivo del análisis de ventas de Adidas en tiendas minoristas de
 **Trabajo final del curso de Tableau — CoderHouse.**
 
 ## 🔗 Ver el dashboard interactivo
-[Abrir en Tableau Public](https://public.tableau.com/app/profile/carla.magui.a/viz/EntregaFinal_Maguia/Documentacin#1)
+[Abrir en Tableau Public](https://public.tableau.com/app/profile/carla.magui.a/viz/EntregaFinal_Maguia/General)
 
 ## 🎯 Objetivo
 Identificar dónde, cuándo y a través de qué tiendas se concentran las ventas, para apoyar decisiones comerciales (distribución, promociones y foco regional).
